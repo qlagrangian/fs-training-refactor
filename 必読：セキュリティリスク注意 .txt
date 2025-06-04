@@ -1,0 +1,15 @@
+PS C:\Users\81808\dev_fs_test> git config --global core.protectNTFS false
+PS C:\Users\81808\dev_fs_test> git config --global core.safecrlf false
+PS C:\Users\81808\dev_fs_test> git clone https://github.com/qlagrangian/fs-training-refactor.git
+Cloning into 'fs-training-refactor'...
+remote: Enumerating objects: 314, done.
+remote: Counting objects: 100% (314/314), done.
+remote: Compressing objects: 100% (204/204), done.
+remote: Total 314 (delta 177), reused 235 (delta 98), pack-reused 0 (from 0)
+Receiving objects: 100% (314/314), 324.21 KiB | 4.57 MiB/s, done.
+Resolving deltas: 100% (177/177), done.
+PS C:\Users\81808\dev_fs_test> 
+
+
+
+※このGitリポジトリをクローンするためだけに、セキュリティ設定を上記の通り変更してあるっことに注意。
